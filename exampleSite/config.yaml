@@ -1,7 +1,7 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Heba Kamel"
-#theme: hugo-profile
+title: "Hugo Profile"
+theme: hugo-profile
 
 Paginate: 3
 disqusShortname: gurusabarish
@@ -39,10 +39,10 @@ Menus:
       weight: 2
 
 params:
-  title: "Heba Portfolio"
+  title: "Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/Logo-H.jpg"
+  favicon: "/fav.png"
 
   theme:
     disableThemeToggle: false
@@ -89,9 +89,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Heba."
+    title: "Isabella."
     subtitle: "I build things for the web"
-    content: "A passionate Data Scientist & Tecnical Project Manager. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
+    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     button:
       enable: true
@@ -100,7 +100,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/Hkamel12
+          url: https://example.com
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:
@@ -113,38 +113,38 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I I am an Experienced IT Team Leader and Trainer with many years of working knowledge of IT Service Management, Digital Transformation. I am a mster student in Informatics, and I have a strong interest in Data Science. I am currently working as a Tech Lead at [Nile University](https://nu.edu.eg/) in Giza, Egypt. 
+      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
-      Data Scientist & AWS Certified Machine Learning Specialty, looking to prove myself in the fields of data science, AI, and analytics and willing to work in this industry.
+      I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "Python"
-        - "Tensorflow"
-        - "Pytorch"
-        - "AWS"
-        - "SQL"
-        - "MongoDB"
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "React"
+        - "Node"
+        - "Express"
 
   # Experience
   experience:
     enable: true
     items:
-      - job: "Freelance Data Scientist"
+      - job: "Senior Software Developer"
         company: "Facebook"
         companyUrl: "https://example.com"
-        date: "Jan 2021 - present"
+        date: "Jan 2022 - present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "Modeling ML pipelines starting from data collection, data cleaning, training models, evaluation, and visualization using state-of-the-art methods. Translating a business problem into a machine learning task by iterating over the cycle of the idea, code, and experiments. Analyze large amounts of complex raw and processed information to find patterns that will benefit an organization and help drive strategic business decisions."
+        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "IT Team Leader"
-        company: "Nile University"
-        companyUrl: "https://nu.edu.eg/index.ph"
-        date: "Oct 2019 - Present"
+      - job: "Software Developer"
+        company: "Amazon"
+        companyUrl: "https://example.com"
+        date: "Sep 2020 - Dec 2021"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -152,11 +152,10 @@ params:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I I Plan, organize, define milestones, and manage the implementation phases of different ICT projects to ensure timely completion and alignment with the allocated budget, and integrate cross-functional projects.
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - E-Learning systems administrator that includes Moodle LMS, Power campus.
-          - Lead Service Desk Team.
-          - Train users on software applications and provide an orientation session for both staff, faculty, and students.
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
         company: "Apple"
@@ -197,19 +196,22 @@ params:
     enable: true
     # index: true
     items:
-      - title: "Master of Informatics"
-        school:Nile University"
-          url: "https://nu.edu.eg"
-        date: "2021 - 2023"
+      - title: "Master of Business Administration"
+        school:
+          name: "University of California, Berkeley"
+          url: "https://example.org"
+        date: "2013 - 2015"
+        GPA: "3.8 out of 5.0"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Knowledge Officer Machine Learning Pro Program"
+      - title: "Bachelor of Science in Computer Science"
         school:
-          name: "Knowledge Officer"
-          url: "https://app.knowledgeofficer.com"
-        date: "2022 - 2022"
+          name: "Massachusetts Institute of Technology"
+          url: "https://example.org"
+        date: "2009 - 2013"
+        GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
@@ -222,13 +224,11 @@ params:
           enable: true
           name: "My academic record"
           url: "https://example.com"
-      - title: "Bachelor of Enineering in Communication & Electronics Engineering"
+      - title: "High School"
         school:
-          name: "Al Azhar University"
-          url: "http://www.azhar.edu.eg/"
+          name: "Thomas Jefferson High School for Science and Technology."
+          url: "https://example.org"
         GPA: "4.2 out of 5.0"
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -255,12 +255,12 @@ params:
   projects:
     enable: true
     items:
-      - title: Amazon Rating Reviews for Sentiment Analysis
-        content: Amazon Rating Reviews for Sentiment Analysis.
+      - title: Hugo Profile
+        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://github.com/Hkamel12/Knowledge-Officer/tree/main/Assgnment%202.
+          link: https://hugo-profile.netlify.app
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
