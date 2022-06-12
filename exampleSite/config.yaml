@@ -101,11 +101,11 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github/hkamel12
-        - icon: fab fa-twitter
-          url: https://example.com
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/heba-kabdelmoez/
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /medium.png
+          url: "https://medium.com/@heba.kahmed12"
 
   # About
   about:
