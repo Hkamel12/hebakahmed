@@ -39,7 +39,7 @@ Menus:
       weight: 2
 
 params:
-  title: "Heba Profile"
+  title: "أثر الفراشة لا يُري، أثر الفراشة لا يزول"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/Logo-H.jpg"
