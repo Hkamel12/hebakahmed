@@ -92,7 +92,7 @@ params:
     title: "Heba."
     subtitle: "I am a Tech Lead"
     content: "A passionate Data Scientist & Tecnical Project Manager. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
-    image: /images/hero.svg
+    image: /images/Butterfly.jpg
     button:
       enable: true
       name: "Resume"
@@ -111,7 +111,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpg"
     content: |-
       I am Experienced IT Team Leader and Trainer with many years of working knowledge of IT Service Management, Digital Transformation, Business Automation. I am currently working as a IT Team Leader  at [Nile Uiversity](https://nu.edu.eg) in Giza, Egypt. 
       I am Data Scientist & AWS Certified Machine Learning Specialty, looking to prove myself in the fields of data science, AI, and analytics and willing to work in this industry.
