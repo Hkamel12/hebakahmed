@@ -254,12 +254,12 @@ params:
   projects:
     enable: true
     items:
-      - title:  Amazon Rating Reviews for Sentiment Analysis
-        content: Amazon Rating Reviews for Sentiment Analysis.
+      - title: Hugo Profile
+        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://github.com/Hkamel12/Knowledge-Officer/tree/main/Assgnment%202.
+          link: https://hugo-profile.netlify.app
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
