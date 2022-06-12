@@ -157,78 +157,77 @@ params:
           - Lead Service Desk team.
           - Train users on software applications and provide an orientation session for both staff, faculty, and students.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Application Support Engineer | Acting IT Manager"
+        company: "Al Babtain LeBLANC"
+        #companyUrl: "https://example.com"
+        date: "Mar 2019 - Sep 2019"
         info:
           enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I onduct research on existing IoT-related applications that could be useful to the market existing in Egypt or any country that we aim to conduct business in.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Manage Legacy Systems and maintain them.
+          - Propose new enhancements to the IT infrastructure and maintain it within the company.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Technical Support Engineer"
+        company: "Zewail City"
+        companyUrl: "https://www.zewailcity.edu.eg/"
+        date: "Sep 2015 - Mar 2019"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I Manage help desk, Plan, direct daily activities of the team and department, lead technicians in a team environment, Administers/coordinates work schedule/assignments and supervises progress.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - G Suite administrator manages all aspects of a G Suite domain.
+          - Handle all service requests related to AD including Create Domain users, groups and set policies, Software License Server, and file share service.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Tehnical Support Engineer"
+        company: "Etisalat"
+        companyUrl: "https://etisalat.eg"
+        date: "Oct 2014 - Sep 2015"
+        content: "I provide information, advice and technical support to a variety of clients, both professional and amateur, about problems arising from the increasing use of digital equipment and techniques. I am highly trained and able to communicate technical information, clearly and concisely, to a wide range of clients."
 
   # Education
   education:
     enable: true
     # index: true
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Informatics"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "Nile University, Egypt"
+          url: "https://nu.edu.eg"
+        date: "2021 - present"
+        #GPA: "3.8 out of 5.0"
+        #content: |-
+         # Extracurricular Activities
+            #- Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            #- Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "Bachelor of Engineering in Commuication & Electronics"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          name: "Al Azhar University"
+          #url: "https://example.org"
+        date: "2007 - 2012"
+        GPA: "3.4 out of 4.0"
+        #content: |-
+          #I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          #- [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          #- Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            -  AZEX (Girls Branch) Co-Founde. 
         featuredLink:
           enable: true
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
+      - title: "Knowledge officer Machine Learing Pro Program"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Knowledge Officer."
+          url: "https://app.knowledgeofficer.com"
+        #GPA: "4.2 out of 5.0"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -237,30 +236,30 @@ params:
   achievements:
     enable: true
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: AWS Certified Machine Learning - Specialty
+        content: AWS Certified Machine Learning - Specialty.
+        url: https://aws.amazon.com/
+      - title: IBM Data Science Professional Certificate
+        content: IBM Data Science Professional Certificate.
+      #- title: Hugo Profile
+        #content: Developed a theme and getting 1K+ downloads per month.
+        #url: "https://github.com/gurusabarish/hugo-profile"
+      #- title: Microsoft Imagine Runner
+       # content: We are developed a product which can help others.
+     # - title: Google Summer of Code
+       # content: Contributed to a open source project.
+       # url: https://example.com
 
   # projects
   projects:
     enable: true
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title:  Amazon Rating Reviews for Sentiment Analysis
+        content: Amazon Rating Reviews for Sentiment Analysis.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://github.com/Hkamel12/Knowledge-Officer/tree/main/Assgnment%202.
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
