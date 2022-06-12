@@ -91,7 +91,7 @@ params:
     intro: "Hi, my name is"
     title: "Heba."
     subtitle: "I am a Tech Lead"
-    content: "A passionate Data Scientist & Tecnical Project Manager. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
+    content: "A Tecnical Project Manager & passionate Data Scientist. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
     image: /images/Butterfly.jpg
     button:
       enable: true
