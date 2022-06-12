@@ -90,7 +90,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Heba."
-    subtitle: "I build things for the web"
+    subtitle: "I am a Tech Lead"
     content: "A passionate Data Scientist & Tecnical Project Manager. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
     image: /images/hero.svg
     button:
@@ -212,81 +212,50 @@ params:
   achievements:
     enable: true
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: WS Certified Machine Learning - Specialty
+        content: WS Certified Machine Learning - Specialty.
+        url: https://aws.amazon.com/
+      - title: IBM Data Science Professional Certificate
+        content: IBM Data Science Professional Certificate.
+      #- title: Hugo Profile
+        #content: Developed a theme and getting 1K+ downloads per month.
+       # url: "https://github.com/gurusabarish/hugo-profile"
+      #- title: Microsoft Imagine Runner
+       # content: We are developed a product which can help others.
+      #- title: Google Summer of Code
+       # content: Contributed to a open source project.
+        #url: https://example.com
 
   # projects
   projects:
     enable: true
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: Recommending web articles classification using NLP
+        content: Recommending web articles classification using NLP.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          link: https://github.com/Hkamel12/Knowledge-Officer
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Amazon Rating Reviews for Sentiment Analysis
+        content: Amazon Rating Reviews for Sentiment Analysis.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          link: https://github.com/Hkamel12/Knowledge-Officer/tree/main/Assgnment%202.
 
   #Contact
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: heba.kahmed12@gmail.com
     btnName: Mail me
 
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
+      github: https://github.com/hkamel12
+      linkedin: https://www.linkedin.com/in/heba-kabdelmoez/
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
