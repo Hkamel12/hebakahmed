@@ -90,7 +90,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Heba."
-    subtitle: "Comprehensive Tech Lead, Inspired by tough problems"
+    subtitle: "Enjoy discovering the patterns"
     content: "A Tecnical Project Manager & passionate Data Scientist. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
     image: /images/Butterfly.jpg
     button:
