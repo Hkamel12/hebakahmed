@@ -1,19 +1,19 @@
 ---
-title: "Markdown Syntax"
-date: 2021-04-03T23:29:21+05:30
+title: "Hybrid Machine Learning"
+date: 2021-08-03T23:29:21+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+github_link: "https://dev.to/aws-builders/hybrid-machine-learning-24b"
+author: "Heba K. Ahmed"
 tags:
-  - Markdown syntax
-  - Sample
-  - example
+  - Machine Learning
+  - AWS
+  - AWS Community Builder
 image: /images/post.jpg
 description: ""
 toc: 
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+AWS proposes a series of tenets to guide our discussion of a world-class hybrid machine learning experience.
 <!--more-->
 
 ## Paragraph
