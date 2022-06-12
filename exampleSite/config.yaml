@@ -154,35 +154,36 @@ params:
           I plan, organize, define milestones, and manage the implementation phases of different ICT projects to ensure timely completion and alignment with the allocated budget, and integrate cross-functional projects.
           - Lead Service Desk team.
           - Train users on software applications and provide an orientation session for both staff, faculty, and students.
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Application Support Engineer | Acting IT Manager"
+        company: "Al Babtain LeBLANC"
+        companyUrl: "http://www.al-babtain.com.sa/"
+        date: "Mar 2019 - Sep 2019"
         info:
           enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+          I conduct research on existing IoT-related applications that could be useful to the market existing in Egypt or any country that we aim to conduct business in.
+          - Manage Legacy Systems and maintain them.
+          - Propose new enhancements to the IT infrastructure and maintain it within the company.
+      - job: "Technical Support Engineer"
+        company: "Zewail City"
+        companyUrl: "https://www.zewailcity.edu.eg/"
+        date: "Sep 2015 - Mar 2019"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          I  Manage help desk, Plan, direct daily activities of the team and department, lead technicians in a team environment, Administers/coordinates work schedule/assignments and supervises progress.
+          - G Suite administrator manages all aspects of a G Suite domain..
+          - HHandle all service requests related to AD including Create Domain users, groups and set policies, Software License Server, and file share service.
+      - job: "Tehnical Support Engineer"
+        company: "Etisalat"
+        companyUrl: "https://etisalat.eg"
+        date: "Oct 2014 - Sep 2015"
+        content: |
+          I  Manage help desk, Plan, direct daily activities of the team and department, lead technicians in a team environment, Administers/coordinates work schedule/assignments and supervises progress.
 
   # Education
   education:
