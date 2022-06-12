@@ -42,7 +42,7 @@ params:
   title: "Heba Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/Logo-H.jpg"
 
   theme:
     disableThemeToggle: false
@@ -89,9 +89,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
+    title: "Heba."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "A passionate Data Scientist & Tecnical Project Manager. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
     image: /images/hero.svg
     button:
       enable: true
@@ -100,7 +100,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github/hkamel12
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:
@@ -113,49 +113,49 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I Experienced IT Team Leader and Trainer with many years of working knowledge of IT Service Management, Digital Transformation, Business Automation. I am currently working as a IT Team Leader  at [Nile Uiversity](https://nu.edu.eg) in Giza, Egypt. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am Data Scientist & AWS Certified Machine Learning Specialty, looking to prove myself in the fields of data science, AI, and analytics and willing to work in this industry.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "SQL"
+        - "Tensorflow"
+        - "AWS"
+        - "GCP"
+        - "MongoDB"
 
   # Experience
   experience:
     enable: true
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Freelance Data Scientist"
+        company: "Freelance"
+        #companyUrl: "https://example.com"
+        date: "Jan 2021 - present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I am Modeling ML pipelines starting from data collection, data cleaning, training models, evaluation, and visualization using state-of-the-art methods."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "IT Team Leader"
+        company: "Nile University"
+        companyUrl: "https://nu.edu.eg"
+        date: "Sep 2019 - Present"
         featuredLink:
           enable: true
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I Manage the processing of IT, Delegate duties and tasks within the IT department.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I plan, organize, define milestones, and manage the implementation phases of different ICT projects to ensure timely completion and alignment with the allocated budget, and integrate cross-functional projects.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Lead Service Desk team.
+          - Train users on software applications and provide an orientation session for both staff, faculty, and students.
 
       - job: "Junior Software Developer"
         company: "Apple"
