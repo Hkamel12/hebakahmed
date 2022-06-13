@@ -100,7 +100,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github/hkamel12
+          url: https://github.com/hkamel12
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/heba-kabdelmoez/
       customIcons:
