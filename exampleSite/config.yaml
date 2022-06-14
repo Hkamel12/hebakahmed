@@ -42,7 +42,7 @@ params:
   # color preference
    color:
      textColor: "#6b6b6b"
-  #  secondaryTextColor: 
+     secondaryTextColor: "#006666"
      backgroundColor: "#9dbcbc"
      secondaryBackgroundColor: "#006666"
      primaryColor: "#F1E0AC"
