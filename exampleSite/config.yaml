@@ -41,12 +41,11 @@ params:
 
   # color preference
    color:
-     textColor: "#6b6b6b"
-     secondaryTextColor: "#006666"
-     backgroundColor: "#9dbcbc"
-     secondaryBackgroundColor: "#006666"
-     primaryColor: "#F1E0AC"
-     secondaryColor: "#30475E"
+    textColor: "#F5F5F5"
+    secondaryTextColor: "#F5F5F5"
+    backgroundColor: "#313552"
+    primaryColor: "#F1E0AC"
+    secondaryColor: "#30475E"
 
   #   darkmode:
   #     textColor:
