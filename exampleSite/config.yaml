@@ -106,7 +106,7 @@ params:
     image: "/images/me.jpg"
     content: |-
       I am an experienced IT Team Leader and Trainer with many years of working knowledge of IT Service Management, Digital Transformation, Business Automation. I am currently working as a IT Team Leader  at [Nile Uiversity](https://nu.edu.eg) in Giza, Egypt. 
-      I am Data Scientist & AWS Certified Machine Learning Specialty, looking to prove myself in the fields of data science, AI, and analytics and willing to work in this industry.
+      I am a Data Scientist & AWS Certified Machine Learning, looking to prove myself in the fields of data science, AI, and analytics and willing to work in this industry.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -143,7 +143,7 @@ params:
           enable: true
           content: I Manage the processing of IT, Delegate duties and tasks within the IT department.
         content: |
-          I plan, organize, define milestones, and manage the implementation phases of different ICT projects to ensure timely completion and alignment with the allocated budget, and integrate cross-functional projects.
+          I planned, organized, defined milestones, and managed the implementation phases of different ICT projects to ensure timely completion and alignment with the allocated budget, and integrate cross-functional projects.
           - Lead Service Desk team.
           - Train users on software applications and provide an orientation session for both staff, faculty, and students.
       - job: "Application Support Engineer | Acting IT Manager"
@@ -167,7 +167,7 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-          I  Manage help desk, Plan, direct daily activities of the team and department, lead technicians in a team environment, Administers/coordinates work schedule/assignments and supervises progress.
+          I  Managed help desk, Planned, directed daily activities of the team and department, led technicians in a team environment, administered/coordinated work schedule/assignments and supervises progress.
           - G Suite administrator manages all aspects of a G Suite domain..
           - HHandle all service requests related to AD including Create Domain users, groups and set policies, Software License Server, and file share service.
       - job: "Tehnical Support Engineer"
@@ -175,7 +175,7 @@ params:
         companyUrl: "https://etisalat.eg"
         date: "Oct 2014 - Sep 2015"
         content: |
-          I  Manage help desk, Plan, direct daily activities of the team and department, lead technicians in a team environment, Administers/coordinates work schedule/assignments and supervises progress.
+           provide information, advice and technical support to a variety of clients, both professional and amateur, about problems arising from the increasing use of digital equipment and techniques. I am highly trained and able to communicate technical information, clearly and concisely, to a wide range of clients.
 
   # Education
   education:
