@@ -39,10 +39,10 @@ params:
   #   lineHeight: 1 # default: 1.5
   #   textAlign: right # default: left
 
-  # color preference "#dcc9cd" "#c6b4b8"
+  # color preference "#dcc9cd" "#c6b4b8" #311D3F
   color:
     textColor: "#121212"
-    secondaryTextColor: "#311D3F"
+    secondaryTextColor: "#FAF4EC"
     backgroundColor: "#FDFCFA"
     primaryColor: "#131e27"
     secondaryColor: "#F3E2CF"
