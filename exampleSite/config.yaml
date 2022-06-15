@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://www.hebakahmed.me/"
 languageCode: "en-us"
 title: "Heba Profile"
 #theme: hugo-profile
@@ -43,7 +43,7 @@ params:
   color:
     textColor: "#121212"
     secondaryTextColor: "#311D3F"
-    backgroundColor: "#f7fbf6"
+    backgroundColor: "#e8efe5"
     primaryColor: "#131e27"
     secondaryColor: "#c7d9c0"
   
