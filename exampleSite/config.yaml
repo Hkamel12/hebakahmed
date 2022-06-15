@@ -42,10 +42,10 @@ params:
   # color preference "#dcc9cd" "#c6b4b8" #311D3F
   color:
     textColor: "#121212"
-    secondaryTextColor: "#FAF4EC"
+    secondaryTextColor: "#311D3F"
     backgroundColor: "#FDFCFA"
     primaryColor: "#131e27"
-    secondaryColor: "#F3E2CF"
+    secondaryColor: "#F7EDE1"
   
   # color:
   #  textColor: "#F5F5F5"
