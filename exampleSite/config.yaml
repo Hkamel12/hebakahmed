@@ -40,6 +40,12 @@ params:
   #   textAlign: right # default: left
 
   # color preference
+  color:
+  backgroundColor: "#dcc9cd"
+  secondaryBackgroundColor: "#c6b4b8"
+  primaryColor: "#dcc9cd"
+  secondaryColor: "#c6b4b8"
+  
   # color:
   #  textColor: "#F5F5F5"
   #  secondaryTextColor: "#F5F5F5"
