@@ -209,11 +209,12 @@ params:
         url: https://aws.amazon.com/
       - title: IBM Data Science Professional Certificate
         content: IBM Data Science Professional Certificate.
-      #- title: Hugo Profile
-        #content: Developed a theme and getting 1K+ downloads per month.
-       # url: "https://github.com/gurusabarish/hugo-profile"
-      #- title: Microsoft Imagine Runner
-       # content: We are developed a product which can help others.
+      - title: AWS Community Builder
+        content: he AWS Community Builders program offers technical resources, mentorship, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community. This directory contains all Community Builders who have chosen to be listed publicly..
+        url: "https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=heba%2B&cb-cards.q_operator=AND"
+      - title: Women In Data Science Ambassador, Stanford University.
+        content: The WiDS initiative includes an annual conference, datathon, podcast, education outreach program, and workshops.
+        url: "https://www.widsconference.org/ambassadors-2022.html"
       #- title: Google Summer of Code
        # content: Contributed to a open source project.
         #url: https://example.com
@@ -224,14 +225,14 @@ params:
     items:
       - title: Recommending web articles classification using NLP
         content: Recommending web articles classification using NLP.
-        image: /images/projects/profile.png
+        image: /images/projects/Project 1.jpg
         featured:
           name: Demo
           link: https://github.com/Hkamel12/Knowledge-Officer
 
       - title: Amazon Rating Reviews for Sentiment Analysis
         content: Amazon Rating Reviews for Sentiment Analysis.
-        image: /images/projects/converter.jpg
+        image: /images/projects/amazon.png
         featured:
           name: Demo
           link: https://github.com/Hkamel12/Knowledge-Officer/tree/main/Assgnment%202.
@@ -248,6 +249,6 @@ params:
     socialNetworks:
       github: https://github.com/hkamel12
       linkedin: https://www.linkedin.com/in/heba-kabdelmoez/
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+    # twitter: https://twitter.com
+    #  instagram: https://instagram.com
+    #  facebook: https://facebook.com
