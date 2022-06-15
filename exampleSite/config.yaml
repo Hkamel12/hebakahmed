@@ -44,8 +44,8 @@ params:
     textColor: "#121212"
     secondaryTextColor: "#311D3F"
     backgroundColor: "#dcc9cd"
-    primaryColor: "#dcc9cd"
-    secondaryColor: "#c6b4b8"
+    primaryColor: "#c6b4b8"
+    secondaryColor: "#dcc9cd"
   
   # color:
   #  textColor: "#F5F5F5"
@@ -88,7 +88,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://www.linkedin.com/in/heba-kabdelmoez/"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
