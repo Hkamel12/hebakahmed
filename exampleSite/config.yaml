@@ -44,8 +44,8 @@ params:
     textColor: "#121212"
     secondaryTextColor: "#311D3F"
     backgroundColor: "#dcc9cd"
-    primaryColor: "#c6b4b8"
-    secondaryColor: "#121212"
+    primaryColor: "#121212"
+    secondaryColor: "#dcc9cd"
   
   # color:
   #  textColor: "#F5F5F5"
