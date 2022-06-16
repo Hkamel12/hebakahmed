@@ -41,11 +41,11 @@ params:
 
   # color preference #131e27
   color:
-    textColor: "#f1eaeb"
+    textColor: "#230f12"
     secondaryTextColor: "#311D3F"
     backgroundColor: "#d7cec7"
     primaryColor: "#183a1d"
-    secondaryColor: "#76323f"
+    secondaryColor: "#ac848b"
   
   # color:
   #  textColor: "#F5F5F5"
