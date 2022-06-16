@@ -41,7 +41,7 @@ params:
 
   # color preference #131e27
   color:
-    textColor: "#121212"
+    textColor: "#f1eaeb"
     secondaryTextColor: "#311D3F"
     backgroundColor: "#d7cec7"
     primaryColor: "#183a1d"
