@@ -27,7 +27,7 @@ params:
   title: "أثر الفراشة لا يُري، أثر الفراشة لا يزول"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/Logo H.jpg"
+  favicon: "/Logo H (2).jpg"
 
   theme:
     disableThemeToggle: false
