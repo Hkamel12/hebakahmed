@@ -113,10 +113,12 @@ params:
       items:
         - "Python"
         - "SQL"
-        - "Tensorflow"
-        - "AWS"
+        - "Amazon Web Services(AWS)"
         - "GCP"
+        - "Tensorflow, Keras"
         - "MongoDB"
+        - "Tableau"
+        - "Power BI"
 
   # Experience
   experience:
