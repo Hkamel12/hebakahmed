@@ -113,8 +113,8 @@ params:
       items:
         - "Python"
         - "SQL"
-        - "Amazon Web Services(AWS)"
         - "GCP"
+        - "Amazon Web Services(AWS)"
         - "Tensorflow, Keras"
         - "MongoDB"
         - "Tableau"
