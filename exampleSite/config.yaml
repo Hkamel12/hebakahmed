@@ -83,7 +83,7 @@ params:
     intro: "Hi, my name is"
     title: "Heba."
     subtitle: "I enjoy discovering the patterns"
-    content: "A Tecnical Team Leader & passionate Data Scientist. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
+    content: "A Technical Team Leader & passionate Data Scientist. I tend to Develop highly scalable production ready models for various deeplearning and statistical use cases."
     image: /images/Butterfly.jpg
     button:
       enable: true
