@@ -114,7 +114,7 @@ params:
         - "Python"
         - "SQL"
         - "GCP"
-        - "Amazon Web Services(AWS)"
+        - "AWS"
         - "Tensorflow, Keras"
         - "MongoDB"
         - "Tableau"
