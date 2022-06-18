@@ -28,11 +28,7 @@ params:
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/Logo H (2).jpg"
-  navbar:
-        align: mx-auto
-        brandLogo: "/images/me.jpg" # Logo for the brand | default is the favicon variable
-        brandName: "Heba K. Ahmed" # Brand name for the brand | default is the title variable
-
+  
   theme:
     disableThemeToggle: false
     # defaultTheme: "light" # dark
